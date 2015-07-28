@@ -1,0 +1,17 @@
+body {
+	background-color: #EEE
+}
+.giris {
+	margin: 0px 137px 20px;
+	font-family: cursive;
+}
+#form{
+	margin-right: 553px;
+	margin-top: 80px;
+	font-family: cursive;
+}
+#buton {
+	background-color: #337AB7;
+	color: white;
+	  font-family: monospace;
+}
