@@ -1,0 +1,39 @@
+body {
+	background-color: #EEE;
+
+}
+.kullanici {
+	    float: left;
+    font-size: xx-large;
+    font-family: initial;
+    position: relative;
+      left: 135px;
+    top: 100px;
+    color: #0B989E;
+}
+.vizyon {
+	    margin: 0px 988px 0px;
+	    height: 200px;
+}
+.resim {
+	height: 200px;
+}
+.giris {
+	margin: 0px 137px 20px;
+	font-family: cursive;
+}
+#form{
+	margin-right: 553px;
+	margin-top: 0px;
+	font-family: cursive;
+}
+#buton {
+	background-color: #337AB7;
+	color: white;
+	  font-family: monospace;
+}
+#navbar {
+	width: 1200px;
+	height: 200px;
+	background-color: white;
+}
